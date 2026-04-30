@@ -30,6 +30,7 @@ LONG_PRODUCTS = {
     "UV_VISOR_MAGENTA",           # 2/3 days up | net +15% over 3 days
     "TRANSLATOR_VOID_BLUE",       # 2/3 days up | net +15% over 3 days
     "PANEL_2X4",                  # 3/3 days up | net +23% over 3 days
+    #"ROBOT_DISHES"                # 2/3 days up | net +17% over 3 days
 }
 
 # We start selling at the second-to-last tick group (ts >= 999500).
